@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.snoozemusic.StartActivity" >
+
+  <item
+    android:id="@+id/action_shuffle"
+    android:icon="@drawable/ic_action_shuffle_off"
+    android:orderInCategory="1"
+    android:showAsAction="always"
+    android:title="Shuffle"/>
+
+    <item
+        android:id="@+id/action_sleep"
+        android:icon="@drawable/ic_action_sleep_off"
+        android:orderInCategory="2"
+        android:showAsAction="always"
+        android:title="Sleep Mode"/>
+
+  <item
+    android:id="@+id/action_end"
+    android:icon="@drawable/ic_action_cancel"
+    android:orderInCategory="3"
+    android:showAsAction="always"
+    android:title="End"/>
+
+</menu>
+<!-- From: file:/C:/Users/Codi/Documents/Workspaces/android/SnoozeMuze/SnoozeMusic/res/menu/start.xml -->

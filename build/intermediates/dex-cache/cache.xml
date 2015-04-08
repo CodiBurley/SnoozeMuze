@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Codi\Documents\Workspaces\android\SnoozeMuze\SnoozeMusic\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="C:\Users\Codi\Documents\Workspaces\android\SnoozeMuze\SnoozeMusic\build\intermediates\pre-dexed\debug\android-support-v4-d4355d795a06f09206b408caeb7e48e5c003697f.jar" />
+    </item>
+
+</items>

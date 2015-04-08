@@ -1,0 +1,19 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:orientation="vertical"
+  android:background="@drawable/listbackmoon"
+  tools:context=".MusicActivity" >
+ 
+  <ListView
+    android:id="@+id/song_list"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+  </ListView>
+
+
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Codi/Documents/Workspaces/android/SnoozeMuze/SnoozeMusic/res/layout/song_list.xml -->
